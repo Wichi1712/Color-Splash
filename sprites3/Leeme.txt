@@ -1,1 +1,1 @@
-d
+Mover todos los archivos de esta carpeta a la carpeta sprites.
